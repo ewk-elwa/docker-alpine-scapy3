@@ -1,6 +1,6 @@
 # alpine-scapy3
 
-## A compact docker image containing Python3 and the [Scapy](http://www.secdev.org/projects/scapy/) library
+## A compact docker image containing Python3 and the [Scapy](https://pypi.python.org/pypi/scapy-python3/0.21) library
 
 ### Usage
 
